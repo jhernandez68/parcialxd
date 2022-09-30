@@ -1,0 +1,16 @@
+{
+  "name": "parcialxd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Jhoan Hernandez",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
